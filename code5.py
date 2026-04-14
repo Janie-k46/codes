@@ -1,0 +1,5 @@
+plt.scatter(df['AvgTemp'], df['PassengerCount'])
+plt.xlabel("Temperature")
+plt.ylabel("Passengers")
+plt.title("Temp vs Passengers")
+plt.show()
